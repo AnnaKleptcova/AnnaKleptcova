@@ -87,7 +87,6 @@
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/AnnaKleptcova/AnnaKleptcova/refs/heads/main/stepik.png)
 
 <br>
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:anna.kleptcova@yandex.ru)
